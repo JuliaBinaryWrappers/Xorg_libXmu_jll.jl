@@ -1,0 +1,89 @@
+[[Xorg_libXmu]]
+arch = "aarch64"
+git-tree-sha1 = "11c1c2c36d6198eda02c6e8c4ea8db864257b391"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "9d08b67b90b8df96431380d0a28422ae73342931107fc67cf82169c5ff1ccf30"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.aarch64-linux-musl.tar.gz"
+[[Xorg_libXmu]]
+arch = "aarch64"
+git-tree-sha1 = "face9a45ad31dedaca08dc59c26871518e760d40"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "52e4ce025ef28e5c006f42c155c9919f1f53e5f52006953bdfeac45b81ef0d27"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXmu]]
+arch = "x86_64"
+git-tree-sha1 = "953af790fd525ae3268e65e80a8a99fc6fe5e3d2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "85fa9f61fe2bb2abb0d591c03fb6f8889adb4bfd2a9ca73a4a6124d846fe6cf2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXmu]]
+arch = "powerpc64le"
+git-tree-sha1 = "5bc0a7a099e24ccd68965689a2114af526791862"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "7cf1fbcd3e026f1960bcc0e31a39e3611b66aa05143aecf8839fc91be1195a05"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libXmu]]
+arch = "x86_64"
+git-tree-sha1 = "36e466f78a79c0ec0065e177407f636aca17c282"
+os = "freebsd"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "4a64c230239eb20318bbd9abb056447db281a2ca4cbb0e936e4a89eb6c767fcf"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libXmu]]
+arch = "i686"
+git-tree-sha1 = "cca4bb8b47f34f8ff6157ee22bbebb90a0a556c2"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "181dc4759e2c666228ab6049f0ecfcd7914f885b6ac86a60f4a8c3f3e4dc1837"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.i686-linux-gnu.tar.gz"
+[[Xorg_libXmu]]
+arch = "i686"
+git-tree-sha1 = "dda82f8a7d8649a387d69dd27288b52a3b354425"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "bcad6d472cbb9aac0e7d0161a8eb4bfab06ef5e1c0cab01267344d4c9f619b67"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.i686-linux-musl.tar.gz"
+[[Xorg_libXmu]]
+arch = "armv7l"
+git-tree-sha1 = "d9bf4eee08fd1cefab66c2fe300890ce4ce0890f"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "16332267ad772ae48060d3ccb572d1071e0ea384e1bed61a15d349bc140d255b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_libXmu]]
+arch = "x86_64"
+git-tree-sha1 = "ad8ca17f4f77856c84a2d90bbe29b537782a327b"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "a5a7f1c727234bc6c3cd6616b72232f47b1f4fc24c2c4347b9c84437c44df1a3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.x86_64-linux-musl.tar.gz"
+[[Xorg_libXmu]]
+arch = "armv7l"
+git-tree-sha1 = "128828006a70df2a0ceb46dd1ca638a1592b0b8b"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXmu.download]]
+    sha256 = "aebf9e0de774d91bee7acff1f7a90f6cd943799a01b5a2b3ae41394b7128de62"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXmu_jll.jl/releases/download/Xorg_libXmu-v1.1.3+0/Xorg_libXmu.v1.1.3.armv7l-linux-musleabihf.tar.gz"
